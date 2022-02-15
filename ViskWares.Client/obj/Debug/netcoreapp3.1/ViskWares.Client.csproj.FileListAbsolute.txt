@@ -1,0 +1,5 @@
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Client\obj\Debug\netcoreapp3.1\ViskWares.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Client\obj\Debug\netcoreapp3.1\ViskWares.Client.AssemblyInfoInputs.cache
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Client\obj\Debug\netcoreapp3.1\ViskWares.Client.AssemblyInfo.cs
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Client\obj\Debug\netcoreapp3.1\ViskWares.Client.csproj.CoreCompileInputs.cache
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Client\obj\Debug\netcoreapp3.1\ViskWares.Client.csproj.AssemblyReference.cache

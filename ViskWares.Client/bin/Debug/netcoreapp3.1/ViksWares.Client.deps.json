@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ViksWares.Client/1.0.0": {
+        "dependencies": {
+          "ViksWares.Application": "1.0.0",
+          "ViksWares.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ViksWares.Client.dll": {}
+        }
+      },
+      "ViksWares.Application/1.0.0": {
+        "dependencies": {
+          "ViksWares.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ViksWares.Application.dll": {}
+        }
+      },
+      "ViksWares.Domain/1.0.0": {
+        "runtime": {
+          "ViksWares.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ViksWares.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViksWares.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViksWares.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Tests\obj\Debug\netcoreapp3.1\ViskWares.Tests.csproj.AssemblyReference.cache
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Tests\obj\Debug\netcoreapp3.1\ViskWares.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Tests\obj\Debug\netcoreapp3.1\ViskWares.Tests.AssemblyInfoInputs.cache
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Tests\obj\Debug\netcoreapp3.1\ViskWares.Tests.AssemblyInfo.cs
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Tests\obj\Debug\netcoreapp3.1\ViskWares.Tests.csproj.CoreCompileInputs.cache

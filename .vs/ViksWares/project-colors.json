@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac285339-6850-4550-850f-0d79f8d852a7": {
+      "ProjectGuid": "ac285339-6850-4550-850f-0d79f8d852a7",
+      "DisplayName": "ViskWares.Application",
+      "ColorIndex": 0
+    },
+    "27e7fa4d-dc03-4ea9-9ab0-1514474bfdff": {
+      "ProjectGuid": "27e7fa4d-dc03-4ea9-9ab0-1514474bfdff",
+      "DisplayName": "ViksWares.Domain",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "19f2d7bc-704e-465b-af02-037a891a5c91": {
+      "ProjectGuid": "19f2d7bc-704e-465b-af02-037a891a5c91",
+      "DisplayName": "ViksWares",
+      "ColorIndex": 2
+    },
+    "67f0df56-deb3-4b65-9f65-df94e986e5a0": {
+      "ProjectGuid": "67f0df56-deb3-4b65-9f65-df94e986e5a0",
+      "DisplayName": "ViksWares.Tests",
+      "ColorIndex": 3
+    },
+    "58af5bdf-d89b-4a82-a000-5982b72c326b": {
+      "ProjectGuid": "58af5bdf-d89b-4a82-a000-5982b72c326b",
+      "DisplayName": "ViksWares.Client",
+      "ColorIndex": 4
+    },
+    "2f75e9fe-3d94-4a9a-ac08-74e2d6d9f40a": {
+      "ProjectGuid": "2f75e9fe-3d94-4a9a-ac08-74e2d6d9f40a",
+      "DisplayName": "ViksWares.Application",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

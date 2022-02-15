@@ -1,0 +1,13 @@
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViskWares.Application.csproj.AssemblyReference.cache
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViskWares.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViskWares.Application.AssemblyInfoInputs.cache
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViskWares.Application.AssemblyInfo.cs
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViskWares.Application.csproj.CoreCompileInputs.cache
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\bin\Debug\netcoreapp3.1\ViskWares.Application.deps.json
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\bin\Debug\netcoreapp3.1\ViskWares.Application.dll
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\bin\Debug\netcoreapp3.1\ViskWares.Application.pdb
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\bin\Debug\netcoreapp3.1\ViskWares.Domain.dll
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\bin\Debug\netcoreapp3.1\ViskWares.Domain.pdb
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViskWares.Application.csproj.CopyComplete
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViskWares.Application.dll
+C:\Users\adhurimxh\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViskWares.Application.pdb

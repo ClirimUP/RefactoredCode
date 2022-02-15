@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ViskWares.Application/1.0.0": {
+        "dependencies": {
+          "ViskWares.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ViskWares.Application.dll": {}
+        }
+      },
+      "ViskWares.Domain/1.0.0": {
+        "runtime": {
+          "ViskWares.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ViskWares.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViskWares.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
