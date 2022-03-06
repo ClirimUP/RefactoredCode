@@ -4,7 +4,7 @@ using ViksWares.Application;
 using ViksWares.Domain.Models;
 
 namespace ViksWares.Tests
-    //tests need to be edited
+    //Tests need to be edited.
 {
     [TestFixture]
     public class ViksWaresTest
