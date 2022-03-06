@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViksWares.Domain", "ViskWar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViksWares.Tests", "ViskWares.Tests\ViksWares.Tests.csproj", "{67F0DF56-DEB3-4B65-9F65-DF94E986E5A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViksWares.Client", "ViskWares.Client\ViksWares.Client.csproj", "{58AF5BDF-D89B-4A82-A000-5982B72C326B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViksWares.Client", "ViskWares.Client\ViksWares.Client.csproj", "{58AF5BDF-D89B-4A82-A000-5982B72C326B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViksWares.Application", "ViskWares.Application\ViksWares.Application.csproj", "{2F75E9FE-3D94-4A9A-AC08-74E2D6D9F40A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViksWares.Application", "ViskWares.Application\ViksWares.Application.csproj", "{2F75E9FE-3D94-4A9A-AC08-74E2D6D9F40A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViksWares.Contract", "Contract\ViksWares.Contract.csproj", "{C1C55456-1C5B-46F1-A63E-C9CD8CD99CB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2F75E9FE-3D94-4A9A-AC08-74E2D6D9F40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F75E9FE-3D94-4A9A-AC08-74E2D6D9F40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F75E9FE-3D94-4A9A-AC08-74E2D6D9F40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C55456-1C5B-46F1-A63E-C9CD8CD99CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C55456-1C5B-46F1-A63E-C9CD8CD99CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C55456-1C5B-46F1-A63E-C9CD8CD99CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C55456-1C5B-46F1-A63E-C9CD8CD99CB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -24,3 +24,16 @@ C:\Users\xhema\OneDrive\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcor
 C:\Users\xhema\OneDrive\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.dll
 C:\Users\xhema\OneDrive\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.pdb
 C:\Users\xhema\OneDrive\Desktop\ViksWares\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\bin\Debug\netcoreapp3.1\ViksWares.Application.deps.json
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\bin\Debug\netcoreapp3.1\ViksWares.Application.dll
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\bin\Debug\netcoreapp3.1\ViksWares.Application.pdb
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\bin\Debug\netcoreapp3.1\ViksWares.Domain.dll
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\bin\Debug\netcoreapp3.1\ViksWares.Domain.pdb
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.csproj.AssemblyReference.cache
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.AssemblyInfoInputs.cache
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.AssemblyInfo.cs
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.csproj.CoreCompileInputs.cache
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.csproj.CopyComplete
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.dll
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Application\obj\Debug\netcoreapp3.1\ViksWares.Application.pdb

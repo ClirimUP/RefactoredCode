@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xhema\\OneDrive\\Desktop\\ViksWares\\ViskWares.Application\\ViksWares.Application.csproj",
+      "projectUniqueName": "C:\\Users\\xhema\\OneDrive\\Desktop\\newRepoRefractor\\RefactoredCode\\ViskWares.Application\\ViksWares.Application.csproj",
       "projectName": "ViksWares.Application",
-      "projectPath": "C:\\Users\\xhema\\OneDrive\\Desktop\\ViksWares\\ViskWares.Application\\ViksWares.Application.csproj",
+      "projectPath": "C:\\Users\\xhema\\OneDrive\\Desktop\\newRepoRefractor\\RefactoredCode\\ViskWares.Application\\ViksWares.Application.csproj",
       "packagesPath": "C:\\Users\\xhema\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xhema\\OneDrive\\Desktop\\ViksWares\\ViskWares.Application\\obj\\",
+      "outputPath": "C:\\Users\\xhema\\OneDrive\\Desktop\\newRepoRefractor\\RefactoredCode\\ViskWares.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\xhema\\OneDrive\\Desktop\\ViksWares\\ViskWares.Domain\\ViksWares.Domain.csproj": {
-              "projectPath": "C:\\Users\\xhema\\OneDrive\\Desktop\\ViksWares\\ViskWares.Domain\\ViksWares.Domain.csproj"
+            "C:\\Users\\xhema\\OneDrive\\Desktop\\newRepoRefractor\\RefactoredCode\\ViskWares.Domain\\ViksWares.Domain.csproj": {
+              "projectPath": "C:\\Users\\xhema\\OneDrive\\Desktop\\newRepoRefractor\\RefactoredCode\\ViskWares.Domain\\ViksWares.Domain.csproj"
             }
           }
         }

@@ -35,7 +35,17 @@
       "ProjectGuid": "2f75e9fe-3d94-4a9a-ac08-74e2d6d9f40a",
       "DisplayName": "ViksWares.Application",
       "ColorIndex": 5
+    },
+    "86d8251a-13cb-4980-b0bd-0679a27d5185": {
+      "ProjectGuid": "86d8251a-13cb-4980-b0bd-0679a27d5185",
+      "DisplayName": "Contract",
+      "ColorIndex": 6
+    },
+    "c1c55456-1c5b-46f1-a63e-c9cd8cd99cb9": {
+      "ProjectGuid": "c1c55456-1c5b-46f1-a63e-c9cd8cd99cb9",
+      "DisplayName": "ViksWares.Contract",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SfMF8JEY4Ak+j7MkoZunvPyPu2yji6BZpHNBprXJKRu4AUEhGWIp07UBbavE2yrcCOCS7Nxe1Lv6Znz0179xfg==",
+  "dgSpecHash": "D5RKQssmk8oFFlmMeD18oRqxwKLnpdksqkb1mYy8ZnbnzzCAEvXe5rwcyufc5t4iZkmqhyHd05/1gpBimdj7bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xhema\\OneDrive\\Desktop\\ViksWares\\ViskWares.Tests\\ViksWares.Tests.csproj",
+  "projectFilePath": "C:\\Users\\xhema\\OneDrive\\Desktop\\newRepoRefractor\\RefactoredCode\\ViskWares.Tests\\ViksWares.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xhema\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\xhema\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
