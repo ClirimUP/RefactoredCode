@@ -26,3 +26,4 @@ C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Domain
 C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.csproj.CoreCompileInputs.cache
 C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.dll
 C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.pdb
+C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.csproj.AssemblyReference.cache
