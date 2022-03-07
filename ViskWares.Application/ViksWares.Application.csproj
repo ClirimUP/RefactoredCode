@@ -5,12 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Contract\ViksWares.Contract.csproj" />
     <ProjectReference Include="..\ViskWares.Domain\ViksWares.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Factories\" />
-    <Folder Include="Handlers\" />
   </ItemGroup>
 
 </Project>

@@ -10,9 +10,4 @@
     <ProjectReference Include="..\ViskWares.Domain\ViksWares.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Handlers\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>

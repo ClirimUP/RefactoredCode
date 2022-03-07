@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XRj6GnqB/5uxtn6CyzHVLr0G0VBKLEeQYNhJ2Wrapbgaz1772sENUHJtd2Bdw17AjzueFlC7ZVU6At3CGFQ1iw==",
+  "dgSpecHash": "Wp/VxNuHEcb1x+bDSLoi76O26E5ntU946B21lilGhpnqc9UkCvFSr3+vzs2gRo+0eS8RGmtyPq5WoRHxG24w+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xhema\\OneDrive\\Desktop\\proj\\RefactoredCode\\ViskWares.Domain\\ViksWares.Domain.csproj",
+  "projectFilePath": "C:\\Users\\xhema\\RefactoredCode\\ViskWares.Domain\\ViksWares.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

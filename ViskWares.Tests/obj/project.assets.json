@@ -887,6 +887,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "ViksWares.Contract": "1.0.0",
           "ViksWares.Domain": "1.0.0"
         },
         "compile": {
@@ -894,6 +895,19 @@
         },
         "runtime": {
           "bin/placeholder/ViksWares.Application.dll": {}
+        }
+      },
+      "ViksWares.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ViksWares.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ViksWares.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ViksWares.Contract.dll": {}
         }
       },
       "ViksWares.Domain/1.0.0": {
@@ -3847,6 +3861,11 @@
       "path": "../ViskWares.Application/ViksWares.Application.csproj",
       "msbuildProject": "../ViskWares.Application/ViksWares.Application.csproj"
     },
+    "ViksWares.Contract/1.0.0": {
+      "type": "project",
+      "path": "../Contract/ViksWares.Contract.csproj",
+      "msbuildProject": "../Contract/ViksWares.Contract.csproj"
+    },
     "ViksWares.Domain/1.0.0": {
       "type": "project",
       "path": "../ViskWares.Domain/ViksWares.Domain.csproj",
@@ -3870,11 +3889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xhema\\OneDrive\\Desktop\\proj\\RefactoredCode\\ViskWares.Tests\\ViksWares.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\xhema\\RefactoredCode\\ViskWares.Tests\\ViksWares.Tests.csproj",
       "projectName": "ViksWares.Tests",
-      "projectPath": "C:\\Users\\xhema\\OneDrive\\Desktop\\proj\\RefactoredCode\\ViskWares.Tests\\ViksWares.Tests.csproj",
+      "projectPath": "C:\\Users\\xhema\\RefactoredCode\\ViskWares.Tests\\ViksWares.Tests.csproj",
       "packagesPath": "C:\\Users\\xhema\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xhema\\OneDrive\\Desktop\\proj\\RefactoredCode\\ViskWares.Tests\\obj\\",
+      "outputPath": "C:\\Users\\xhema\\RefactoredCode\\ViskWares.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3895,11 +3914,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\xhema\\OneDrive\\Desktop\\proj\\RefactoredCode\\ViskWares.Application\\ViksWares.Application.csproj": {
-              "projectPath": "C:\\Users\\xhema\\OneDrive\\Desktop\\proj\\RefactoredCode\\ViskWares.Application\\ViksWares.Application.csproj"
+            "C:\\Users\\xhema\\RefactoredCode\\ViskWares.Application\\ViksWares.Application.csproj": {
+              "projectPath": "C:\\Users\\xhema\\RefactoredCode\\ViskWares.Application\\ViksWares.Application.csproj"
             },
-            "C:\\Users\\xhema\\OneDrive\\Desktop\\proj\\RefactoredCode\\ViskWares.Domain\\ViksWares.Domain.csproj": {
-              "projectPath": "C:\\Users\\xhema\\OneDrive\\Desktop\\proj\\RefactoredCode\\ViskWares.Domain\\ViksWares.Domain.csproj"
+            "C:\\Users\\xhema\\RefactoredCode\\ViskWares.Domain\\ViksWares.Domain.csproj": {
+              "projectPath": "C:\\Users\\xhema\\RefactoredCode\\ViskWares.Domain\\ViksWares.Domain.csproj"
             }
           }
         }
