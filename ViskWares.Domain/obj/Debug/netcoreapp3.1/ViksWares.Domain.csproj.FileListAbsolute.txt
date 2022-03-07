@@ -27,3 +27,13 @@ C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Domain
 C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.dll
 C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.pdb
 C:\Users\xhema\OneDrive\Desktop\newRepoRefractor\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.csproj.AssemblyReference.cache
+C:\Users\xhema\RefactoredCode\ViskWares.Domain\bin\Debug\netcoreapp3.1\ViksWares.Domain.deps.json
+C:\Users\xhema\RefactoredCode\ViskWares.Domain\bin\Debug\netcoreapp3.1\ViksWares.Domain.dll
+C:\Users\xhema\RefactoredCode\ViskWares.Domain\bin\Debug\netcoreapp3.1\ViksWares.Domain.pdb
+C:\Users\xhema\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.csproj.AssemblyReference.cache
+C:\Users\xhema\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhema\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.AssemblyInfoInputs.cache
+C:\Users\xhema\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.AssemblyInfo.cs
+C:\Users\xhema\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xhema\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.dll
+C:\Users\xhema\RefactoredCode\ViskWares.Domain\obj\Debug\netcoreapp3.1\ViksWares.Domain.pdb

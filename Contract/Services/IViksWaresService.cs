@@ -6,5 +6,6 @@ namespace ViksWares.Contract.Services
 {
     public interface IViksWaresService
     {
+        void UpdateValue();
     }
 }

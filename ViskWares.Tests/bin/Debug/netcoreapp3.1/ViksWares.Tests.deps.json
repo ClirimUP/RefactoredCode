@@ -654,10 +654,19 @@
       },
       "ViksWares.Application/1.0.0": {
         "dependencies": {
+          "ViksWares.Contract": "1.0.0",
           "ViksWares.Domain": "1.0.0"
         },
         "runtime": {
           "ViksWares.Application.dll": {}
+        }
+      },
+      "ViksWares.Contract/1.0.0": {
+        "dependencies": {
+          "ViksWares.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ViksWares.Contract.dll": {}
         }
       },
       "ViksWares.Domain/1.0.0": {
@@ -996,6 +1005,11 @@
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
     "ViksWares.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViksWares.Contract/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

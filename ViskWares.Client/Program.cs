@@ -5,13 +5,13 @@ using ViksWares.Domain.Models;
 
 namespace ViksWares.Client
 {
-	public class Program
-	{
-		static void Main(string[] args)
-		{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
             Console.WriteLine("Welcome To our shop!");
 
-            IList<Item> Items = new List<Item>{
+            IList<Item> items = new List<Item>{
                 new Item {Name = "Shoe Laces", SellBy = 10, Value = 20},
                 new Item {Name = "Aged Parmigiano", SellBy = 2, Value = 0},
                 new Item {Name = "Book of Resolutions", SellBy = 5, Value = 7},
@@ -37,19 +37,18 @@ namespace ViksWares.Client
                 },
                 // this Refrigerated item does not work properly yet
                 new Item {Name = "Refrigerated milk", SellBy = 3, Value = 6},
-                 new Item {Name = "Refrigerated milk", SellBy = 3, Value = 26}
+                new Item {Name = "Refrigerated milk", SellBy = 3, Value = 26}
             };
 
-            var app = new ViksWaresService(Items);
-
+            var app = new ViksWaresService(items);
 
             for (var i = 0; i < 31; i++)
             {
                 Console.WriteLine("-------- day " + i + " --------");
                 Console.WriteLine("name, sellIn, quality");
-                for (var j = 0; j < Items.Count; j++)
+                foreach (var t in items)
                 {
-                    System.Console.WriteLine(Items[j]);
+                    Console.WriteLine(t);
                 }
                 Console.WriteLine("");
                 app.UpdateValue();
@@ -57,5 +56,5 @@ namespace ViksWares.Client
 
             Console.ReadKey();
         }
-	}
+    }
 }

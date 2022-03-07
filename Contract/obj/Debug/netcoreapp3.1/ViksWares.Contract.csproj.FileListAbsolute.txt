@@ -1,0 +1,13 @@
+C:\Users\xhema\RefactoredCode\Contract\obj\Debug\netcoreapp3.1\ViksWares.Contract.csproj.AssemblyReference.cache
+C:\Users\xhema\RefactoredCode\Contract\obj\Debug\netcoreapp3.1\ViksWares.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xhema\RefactoredCode\Contract\obj\Debug\netcoreapp3.1\ViksWares.Contract.AssemblyInfoInputs.cache
+C:\Users\xhema\RefactoredCode\Contract\obj\Debug\netcoreapp3.1\ViksWares.Contract.AssemblyInfo.cs
+C:\Users\xhema\RefactoredCode\Contract\obj\Debug\netcoreapp3.1\ViksWares.Contract.csproj.CoreCompileInputs.cache
+C:\Users\xhema\RefactoredCode\Contract\bin\Debug\netcoreapp3.1\ViksWares.Contract.deps.json
+C:\Users\xhema\RefactoredCode\Contract\bin\Debug\netcoreapp3.1\ViksWares.Contract.dll
+C:\Users\xhema\RefactoredCode\Contract\bin\Debug\netcoreapp3.1\ViksWares.Contract.pdb
+C:\Users\xhema\RefactoredCode\Contract\bin\Debug\netcoreapp3.1\ViksWares.Domain.dll
+C:\Users\xhema\RefactoredCode\Contract\bin\Debug\netcoreapp3.1\ViksWares.Domain.pdb
+C:\Users\xhema\RefactoredCode\Contract\obj\Debug\netcoreapp3.1\ViksWares.Contract.csproj.CopyComplete
+C:\Users\xhema\RefactoredCode\Contract\obj\Debug\netcoreapp3.1\ViksWares.Contract.dll
+C:\Users\xhema\RefactoredCode\Contract\obj\Debug\netcoreapp3.1\ViksWares.Contract.pdb
