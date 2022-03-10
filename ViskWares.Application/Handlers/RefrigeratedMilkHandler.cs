@@ -8,13 +8,15 @@ namespace ViksWares.Application.Handlers
 {
     public class RefrigeratedMilkHandler : IItemHandler
     {
-        //need to edit this
         public void UpdateItem(Item item)
         {
-            item.Value -= 1;
-            item.Value -= 1;
+            if (item.Value > 0)
+            {
+                item.Value -= 1;
+                item.Value -= 1;
+            }
 
-            if (item.SellBy <= 0)
+            if (item.SellBy <= 0 && item.Value > 0)
             {
                 item.Value -= 1;
             }

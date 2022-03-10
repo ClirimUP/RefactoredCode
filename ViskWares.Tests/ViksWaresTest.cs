@@ -55,5 +55,257 @@ namespace ViksWares.Tests
                 Assert.AreEqual(itemResult7.Value,item6.Value);
             });
         }
+
+
+        [Test]
+        public void UpdateItem_ForShoeLaces_ProducesCorrectAnswer()
+        {
+            // Arrange
+            var items = new List<Item>
+            {
+                new Item {Name = "Shoe Laces", SellBy = 10, Value = 20}
+            };
+
+            var expectedResult = new Item
+            {
+                Name = "Shoe Laces",
+                SellBy = 9,
+                Value = 19
+            };
+
+            var sut = new ViksWaresService(items);
+
+            // Act
+            sut.UpdateValue();
+
+            // Assert
+            Assert.AreEqual(expectedResult.Value, items[0].Value);
+            Assert.AreEqual(expectedResult.Name, items[0].Name);
+            Assert.AreEqual(expectedResult.SellBy, items[0].SellBy);
+        }
+
+
+        [Test]
+        public void UpdateItem_AgedParmigiano_ProducesCorrectAnswer()
+        {
+            // Arrange
+            var items = new List<Item>
+            {
+                new Item {Name = "Aged Parmigiano", SellBy = 2, Value = 0}
+            };
+
+            var expectedResult = new Item
+            {
+                Name = "Aged Parmigiano",
+                SellBy = 1,
+                Value = 1
+            };
+
+            var sut = new ViksWaresService(items);
+
+            // Act
+            sut.UpdateValue();
+
+            // Assert
+            Assert.AreEqual(expectedResult.Value, items[0].Value);
+            Assert.AreEqual(expectedResult.Name, items[0].Name);
+            Assert.AreEqual(expectedResult.SellBy, items[0].SellBy);
+        }
+
+        [Test]
+        public void UpdateItem_BookOfResolutions_ProducesCorrectAnswer()
+        {
+            // Arrange
+            var items = new List<Item>
+            {
+                new Item{
+                    Name = "Book of Resolutions",
+                    SellBy = 5,
+                    Value = 7
+                }
+            };
+
+            var expectedResult = new Item
+            {
+                Name = "Book of Resolutions",
+                SellBy = 4,
+                Value = 6
+            };
+
+            var sut = new ViksWaresService(items);
+
+            // Act
+            sut.UpdateValue();
+
+            // Assert
+            Assert.AreEqual(expectedResult.Value, items[0].Value);
+            Assert.AreEqual(expectedResult.Name, items[0].Name);
+            Assert.AreEqual(expectedResult.SellBy, items[0].SellBy);
+        }
+
+        [Test]
+        public void UpdateItem_SaffronPowder_ProducesCorrectAnswer()
+        {
+            // Arrange
+            var items = new List<Item>
+            {
+                new Item
+                {
+                    Name = "Saffron Powder",
+                    SellBy = 0,
+                    Value = 40
+                },
+                new Item
+                {
+                    Name = "Saffron Powder",
+                    SellBy = 0,
+                    Value = 40
+                }
+            };
+
+            var expectedResult = new List<Item>
+            {
+                new Item
+                {
+                    Name = "Saffron Powder",
+                    SellBy = 0,
+                    Value = 40
+                },
+                new Item
+                {
+                    Name = "Saffron Powder",
+                    SellBy = 0,
+                    Value = 40
+                }
+            };
+
+            var sut = new ViksWaresService(items);
+
+            // Act
+            sut.UpdateValue();
+
+            // Assert
+            Assert.AreEqual(expectedResult[0].Name, items[0].Name);
+            Assert.AreEqual(expectedResult[0].Value, items[0].Value);
+            Assert.AreEqual(expectedResult[0].SellBy, items[0].SellBy);
+            Assert.AreEqual(expectedResult[1].Name, items[1].Name);
+            Assert.AreEqual(expectedResult[1].Value, items[1].Value);
+            Assert.AreEqual(expectedResult[1].SellBy, items[1].SellBy);
+        }
+
+        [Test]
+        public void UpdateItem_ConcertTicketsToTalkinsFestival_ProducesCorrectAnswer()
+        {
+            // Arrange
+            var items = new List<Item>
+            {
+                new Item
+                {
+                    Name = "Concert tickets to Talkins Festival",
+                    SellBy = 15,
+                    Value = 20
+                },
+                new Item
+                {
+                    Name = "Concert tickets to Talkins Festival",
+                    SellBy = 11,
+                    Value = 20
+                },
+                new Item
+                {
+                    Name = "Concert tickets to Talkins Festival",
+                    SellBy = 6,
+                    Value = 10
+                }
+            };
+
+            var expectedResult = new List<Item>
+            {
+                new Item
+                {
+                    Name = "Concert tickets to Talkins Festival",
+                    SellBy = 14,
+                    Value = 21
+                },
+                new Item
+                {
+                    Name = "Concert tickets to Talkins Festival",
+                    SellBy = 10,
+                    Value = 21
+                },
+                new Item
+                {
+                    Name = "Concert tickets to Talkins Festival",
+                    SellBy = 5,
+                    Value = 12
+                }
+            };
+
+            var sut = new ViksWaresService(items);
+
+            // Act
+            sut.UpdateValue();
+
+            // Assert
+            Assert.AreEqual(expectedResult[0].Value, items[0].Value);
+            Assert.AreEqual(expectedResult[0].Name, items[0].Name);
+            Assert.AreEqual(expectedResult[0].SellBy, items[0].SellBy);
+            Assert.AreEqual(expectedResult[1].Value, items[1].Value);
+            Assert.AreEqual(expectedResult[1].Name, items[1].Name);
+            Assert.AreEqual(expectedResult[1].SellBy, items[1].SellBy);
+            Assert.AreEqual(expectedResult[2].Value, items[2].Value);
+            Assert.AreEqual(expectedResult[2].Name, items[2].Name);
+            Assert.AreEqual(expectedResult[2].SellBy, items[2].SellBy);
+        }
+
+        [Test]
+        public void UpdateItem_RefrigeratedMilk_ProducesCorrectAnswer()
+        {
+            // Arrange
+            var items = new List<Item>
+            {
+                new Item
+                {
+                    Name = "Refrigerated milk",
+                    SellBy = 3,
+                    Value = 6
+                },
+                new Item
+                {
+                    Name = "Refrigerated milk",
+                    SellBy = 3,
+                    Value = 26
+                }
+            };
+
+            var expectedResult = new List<Item>
+            {
+                new Item
+                {
+                    Name = "Refrigerated milk",
+                    SellBy = 2,
+                    Value = 4
+                },
+                new Item
+                {
+                    Name = "Refrigerated milk",
+                    SellBy = 2,
+                    Value = 24
+                }
+            };
+
+            var sut = new ViksWaresService(items);
+
+            // Act
+            sut.UpdateValue();
+
+            // Assert
+            Assert.AreEqual(expectedResult[0].Name, items[0].Name);
+            Assert.AreEqual(expectedResult[0].Value, items[0].Value);
+            Assert.AreEqual(expectedResult[0].SellBy, items[0].SellBy);
+            Assert.AreEqual(expectedResult[1].Name, items[1].Name);
+            Assert.AreEqual(expectedResult[1].Value, items[1].Value);
+            Assert.AreEqual(expectedResult[1].SellBy, items[1].SellBy);
+        }
     }
 }
